@@ -1,0 +1,6 @@
+# DiscoveRx
+
+## Instalação
+1. Faça download deste arquivo APK no celular Android (6.0+)
+2. Instale o arquivo (talvez seja necessário ativar a instalação de fontes externas)
+3. Aparecerá um ícone do jogo no seu celular. Basta iniciá-lo
